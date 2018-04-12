@@ -1,10 +1,10 @@
 <Customers>
-<Customer>
-<Name>Surendra Tarai</Name>
-<Mobile>8885791502</Mobile>
-</Customer>
-<Customer>
-<Name>John Smith</Name>
-<Mobile>1234567890</Mobile>
-</Customer>
+  <Customer>
+    <Name>Surendra Tarai</Name>
+    <Mobile>8885791502</Mobile>
+  </Customer>
+  <Customer>
+    <Name>John Smith</Name>
+    <Mobile>1234567890</Mobile>
+  </Customer>
 </Customers>
